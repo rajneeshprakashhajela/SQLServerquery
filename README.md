@@ -1,3 +1,6 @@
+northwind query script
+https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instnwnd%20(Azure%20SQL%20Database).sql
+
 create table employee(id int, name varchar(20))
 insert into employee values(1,'A')
 insert into employee values(2,'B')
